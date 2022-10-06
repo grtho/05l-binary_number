@@ -1,5 +1,5 @@
-#include <iostream>
 #include "BinaryNumber.hpp"
+#include <iostream>
 
 using std::cout, std::endl;
 
@@ -81,5 +81,4 @@ int main() {
 
     cout << R"(Executing `cout << difference << "\n" << endl;`...)" << endl;
     cout << difference << "\n" << endl;
-
 }

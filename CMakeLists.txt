@@ -3,4 +3,4 @@ project(05l_binary_number)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(05l_binary_number main.cpp BinaryNumber.cpp BinaryNumber.hpp)
+add_executable(05l_binary_number src/main.cpp src/BinaryNumber.cpp src/BinaryNumber.hpp)
